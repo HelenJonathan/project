@@ -1,0 +1,21 @@
+body{
+  background-color: white;
+  font-family: sans-serif;
+}
+
+.title{ 
+  text-align: center;
+  background-color: rgba(221, 215, 215, 0.589);
+  padding: 0px 30px;
+  padding: 10px 5px;
+}
+
+#img-caption{
+   text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  ;
+}
